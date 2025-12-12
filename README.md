@@ -80,6 +80,8 @@ colorScheme: ColorScheme(
 
 ##### Demo
 
+![ColorScheme Live Preview](assets/colorscheme_demo.gif)
+
 <img src="https://i.ibb.co.com/YTYhqhHh/Screenshot-20251212-195233.png" alt="ColorScheme Demo" width="400"/>
 
 
