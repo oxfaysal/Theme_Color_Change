@@ -2,7 +2,6 @@
 
 ### Appbar Theme
 
-
 > Inside - MaterialApp ()
 
 ```
@@ -13,6 +12,15 @@ theme: ThemeData(
         ),
       ),
 ```
+
+##### Debug Mode Banner
+
+> Inside - MaterialApp ()
+```
+debugShowCheckedModeBanner: false,
+
+```
+
 
 
 ### Full App Color Scheme
