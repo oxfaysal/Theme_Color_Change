@@ -18,7 +18,6 @@ theme: ThemeData(
 > Inside - MaterialApp ()
 ```
 debugShowCheckedModeBanner: false,
-
 ```
 
 
